@@ -12,5 +12,5 @@ Análisis de tiempos de entrega y tasas de fallo en una red de distribución log
 - Excel + Power Query (limpieza), SQLite + DBeaver (análisis SQL)
 ## 5. Preguntas de negocio respondidas
 ### ¿Qué transportista tiene mayor tasa de fallos?
-- DHL (5.92%) seguido de XpressBees (5.91%)
+- DHL (5.92%) seguido de XpressBees (5.91%). Se valida que el volumen de entregas sea comparable.
   
